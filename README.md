@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints</h1>
-  <h1>4.7.1 v2</h1>
+  <h1>4.7.1 v3</h1>
   <p>
     <strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong>
   </p>
@@ -18,7 +18,7 @@
 
 Este repositorio es una versión mejorada y personalizada que combina dos pilares fundamentales para la comunidad hispana de **Star Citizen**:
 
-1.  **Traducción Integral:** Basada en el excelente trabajo de [Thord82](https://github.com/Thord82/Star_citizen_ES), cubriendo textos, diálogos y menús en la versión 4.7.1 v2
+1.  **Traducción Integral:** Basada en el excelente trabajo de [Thord82](https://github.com/Thord82/Star_citizen_ES), cubriendo textos, diálogos y menús en la versión 4.7.1 v3
 2.  **Módulo de Blueprints (Planos):** Se han integrado archivos de planos tácticos y técnicos que aparecen en determinadas misiones del juego, permitiendo una inmersión total y facilitando la resolución de objetivos complejos.
 
 
