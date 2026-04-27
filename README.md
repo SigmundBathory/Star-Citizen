@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Star Citizen - Traducción al Español + Blueprints</h1>
+  <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
   <h1>4.7.2 v2</h1>
   <p>
     <strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong>
