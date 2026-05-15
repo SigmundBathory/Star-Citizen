@@ -74,7 +74,7 @@ Este trabajo es posible gracias a la combinación de:
 
 ## 🤝 Contribuciones
 
-Si encuentras algún error en la traducción de los planos o en los textos generales, ¡siéntete libre de abrir un **Issue** o enviar un **Pull Request**! Toda ayuda es bienvenida para mantener el verso en nuestro idioma.
+Si encuentras algún error en la traducción de los planos o en los textos generales, ¡siéntete libre de abrir un **Issue** o enviar un **Pull Request**! Toda ayuda es bienvenida para mantener el verso en nuestro idioma. Si quieres jugar a Star Citizen puedes usar mi codigo de referidos para que te regalen creditos y/o items (sujeto a promociones) https://www.robertsspaceindustries.com/enlist?referral=STAR-CXR9-7ZZL
 
 ---
 
