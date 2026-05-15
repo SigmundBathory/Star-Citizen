@@ -56,7 +56,7 @@ Este repositorio es una versión mejorada y personalizada que combina dos pilare
 
 Para disfrutar de esta versión fusionada, sigue estos pasos:
 
-1. **Descarga el paquete:** [Aqui](https://github.com/SigmundBathory/Star-Citizen/releases/tag/4.7.2_v2) y baja el archivo `.zip`.
+1. **Descarga el paquete:** [Aqui](https://github.com/SigmundBathory/Star-Citizen/releases/) y baja el archivo `.zip`.
 2. **Localiza tu carpeta de juego:** Generalmente en `Program Files\Roberts Space Industries\StarCitizen\LIVE`.
 3. **Extrae el contenido:** Copia la carpeta `data` y los archivos correspondientes dentro del directorio `LIVE`.
 4. **Configuración:** Asegúrate de que el archivo `user.cfg` incluya la línea:
