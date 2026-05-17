@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
   <h1>4.8v3  
-    15.216 BP añadidos</h1>
+    <b></b>15.216 BP añadidos</b></h1>
   <p>
     <strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong>
   </p>
