@@ -1,13 +1,13 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
   <h1>4.8.1  
-    <br>(release-2026-06-03-3feaf61)
+    <br>(release-2026-06-03-3feaf61)</br></h1>
 
 Títulos [BP]: 18
 Descripciones BP: 255
 Contratos: 1034289
 Armamento: 136
-Claves nuevas: 143</br></h1>
+Claves nuevas: 143
   <p>
     <strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong>
   </p>
