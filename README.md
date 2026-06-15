@@ -6,11 +6,11 @@
 Títulos [BP]: 280
 Descripciones BP: 255
 Contratos: 1375
-Armamento: 136
-Claves nuevas: 45
+Armamento: 136 
+<br> Claves nuevas: 45
 Inconsistencias @:  40
 Placeholders fix:   57
-Overrides aplicados: 380
+Overrides aplicados: 380 </br>
   <p>
     <strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong>
   </p>
