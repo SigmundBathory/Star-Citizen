@@ -1,13 +1,16 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
   <h1>4.8.1  
-    <br>(release-2026-06-03-3feaf61)</br></h1>
+    <br>(4.8.1-live.11952564)</br></h1>
 
-Títulos [BP]: 18
+Títulos [BP]: 280
 Descripciones BP: 255
-Contratos: 1034289
+Contratos: 1375
 Armamento: 136
-Claves nuevas: 143
+Claves nuevas: 45
+Inconsistencias @:  40
+Placeholders fix:   57
+Overrides aplicados: 380
   <p>
     <strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong>
   </p>
@@ -25,7 +28,7 @@ Claves nuevas: 143
 
 Este repositorio es una versión mejorada y personalizada que combina dos pilares fundamentales para la comunidad hispana de **Star Citizen**:
 
-1.  **Traducción Integral:** Basada en el excelente trabajo de [Thord82](https://github.com/Thord82/Star_citizen_ES), cubriendo textos, diálogos y menús en la versión 4.8
+1.  **Traducción Integral:** cubriendo textos, diálogos y menús en la versión 4.8.1
 2.  **Módulo de Blueprints (Planos):** Se han integrado archivos de planos tácticos y técnicos que aparecen en determinadas misiones del juego, permitiendo una inmersión total y facilitando la resolución de objetivos complejos.
 
 
@@ -74,7 +77,7 @@ Para disfrutar de esta versión fusionada, sigue estos pasos:
 ## 📂 Origen de los Datos
 
 Este trabajo es posible gracias a la combinación de:
-* **Traducción Base:** [GitHub Thord82/Star_citizen_ES](https://github.com/Thord82/Star_citizen_ES)
+* **Traducción Base:**
 * **Módulo de Blueprints:** Archivos técnicos integrados directamente en la estructura de localización.
 
 ---
