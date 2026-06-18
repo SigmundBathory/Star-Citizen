@@ -16,7 +16,7 @@ Overrides aplicados: 380 </br>
   </p>
 
   <a href="https://github.com/SigmundBathory/Star-Citizen/releases">
-    <img src="https://img.shields.io/github/v/release/SigmundBathory/Star-Citizen?style=for-the-badge&color=gold" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/SigmundBathory/Star-Citizen?style=for-the-badge&color=gold" alt="Latest Release"">
   </a>
   <img src="https://img.shields.io/github/repo-size/SigmundBathory/Star-Citizen?style=for-the-badge&color=blue" alt="Repo Size">
   <img src="https://img.shields.io/github/license/SigmundBathory/Star-Citizen?style=for-the-badge" alt="License">
