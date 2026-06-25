@@ -3,7 +3,7 @@
   <h1>4.8.2  
     <br>(4.8.2-live.12061511)</br></h1>
 
---- RESUMEN --- 4.8.2_v2
+--- RESUMEN --- 4.8.2
 Titulos [BP]:       572
 Descripciones BP:   292
 Contratos:          2015
