@@ -1,16 +1,20 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
-  <h1>4.8.1  
+  <h1>4.8.2  
     <br>(4.8.1-live.11952564)</br></h1>
 
-Títulos [BP]: 280
-Descripciones BP: 255
-Contratos: 1375
-Armamento: 136 
-<br> Claves nuevas: 45
+--- RESUMEN --- 4.8.2_v2
+Titulos [BP]:       572
+Descripciones BP:   292
+Contratos:          2015
+Armamento:          136
+<br>
+Claves nuevas:      71
 Inconsistencias @:  40
 Placeholders fix:   57
-Overrides aplicados: 380 </br>
+Overrides aplicados: 380
+
+Se ha añadido la cantidad de reputación que otorga cada contrato al final de la descripción</br>
   <p>
     <strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong>
   </p>
