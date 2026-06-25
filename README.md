@@ -32,7 +32,7 @@ Se ha añadido la cantidad de reputación que otorga cada contrato al final de l
 
 Este repositorio es una versión mejorada y personalizada que combina dos pilares fundamentales para la comunidad hispana de **Star Citizen**:
 
-1.  **Traducción Integral:** cubriendo textos, diálogos y menús en la versión 4.8.1
+1.  **Traducción Integral:** cubriendo textos, diálogos y menús en la versión 4.8.2
 2.  **Módulo de Blueprints (Planos):** Se han integrado archivos de planos tácticos y técnicos que aparecen en determinadas misiones del juego, permitiendo una inmersión total y facilitando la resolución de objetivos complejos.
 
 
