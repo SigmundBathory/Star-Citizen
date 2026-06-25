@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
   <h1>4.8.2  
-    <br>(4.8.1-live.11952564)</br></h1>
+    <br>(4.8.2-live.12061511)</br></h1>
 
 --- RESUMEN --- 4.8.2_v2
 Titulos [BP]:       572
