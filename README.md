@@ -93,7 +93,7 @@ Si quieres jugar a Star Citizen puedes usar mi código de referidos para obtener
 
 ---
 
-## Youtube & Twitch (Sigmund Bathory / Comando 10 FPS)
+## Twitch & Youtube (Sigmund Bathory / Comando 10 FPS)
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=p6Ocd1euNKo">
