@@ -94,10 +94,16 @@ Si encuentras algún error en la traducción de los planos o en los textos gener
 
 ## Youtube & Twitch (Sigmund Bathory / Comando 10 FPS)
 
-<div align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/p6Ocd1euNKo?si=-d6earM7oqvVHCYe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div> <br> </br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=p6Ocd1euNKo">
+    <img src="[https://img.youtube.com/vi/p6Ocd1euNKo/maxresdefault.jpg](https://i.ibb.co/xKZknwsr/Wallpaper.png)" alt="Ver video en YouTube" width="560" style="max-width: 100%;">
+  </a>
+</div> <br> </br>
 
 https://www.twitch.tv/sigmundbathory
 https://youtu.be/p6Ocd1euNKo?si=rRwd53MMcpGUL9rC
+
+---
 
 <div align="center">
   <p><i>Este es un proyecto fan-made y no tiene afiliación oficial con Cloud Imperium Games.</i></p>
