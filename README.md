@@ -1,4 +1,4 @@
-  <center> <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1></center>center>
+  <center> <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1> </center>
   <h1>4.8.2  
     <br>(4.8.2-live.12061511)</br></h1>
 
