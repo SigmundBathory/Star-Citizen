@@ -5,6 +5,7 @@
 
   <pre>
 --- RESUMEN --- 4.8.2
+    
 Titulos [BP]:       572
 Descripciones BP:   292
 Contratos:          2015
@@ -12,8 +13,7 @@ Armamento:          136
 Claves nuevas:      71
 Inconsistencias @:  40
 Placeholders fix:   57
-Overrides aplicados: 380
-  </pre>
+Overrides aplicados: 380 </pre>
 
   <p><i>Se ha añadido la cantidad de reputación que otorga cada contrato al final de la descripción.</i></p>
 
