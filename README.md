@@ -95,9 +95,10 @@ Si encuentras algún error en la traducción de los planos o en los textos gener
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=p6Ocd1euNKo">
-    <img src="[<img width="1936" height="1088" alt="Wallpaper" src="[https://github.com/user-attachments/assets/15710bee-b291-48a8-9ff2-1a24da227e48]" />)" alt="Ver video en YouTube" width="560" style="max-width: 100%;">
+    <img src="https://github.com/user-attachments/assets/15710bee-b291-48a8-9ff2-1a24da227e48" alt="Ver video en YouTube" width="560" style="max-width: 100%;">
   </a>
-</div> <br> </br>
+</div>
+<br>
 
 https://www.twitch.tv/sigmundbathory
 https://youtu.be/p6Ocd1euNKo?si=rRwd53MMcpGUL9rC
