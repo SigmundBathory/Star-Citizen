@@ -97,11 +97,11 @@ Si encuentras algún error en la traducción de los planos o en los textos gener
   <a href="https://www.youtube.com/watch?v=p6Ocd1euNKo">
     <img src="https://github.com/user-attachments/assets/15710bee-b291-48a8-9ff2-1a24da227e48" alt="Ver video en YouTube" width="560" style="max-width: 100%;">
   </a>
+  <br><br>
+  <a href="https://www.twitch.tv/sigmundbathory">Twitch</a>
+  <br>
+  <a href="https://youtu.be/p6Ocd1euNKo?si=rRwd53MMcpGUL9rC">YouTube</a>
 </div>
-<br>
-
-https://www.twitch.tv/sigmundbathory
-https://youtu.be/p6Ocd1euNKo?si=rRwd53MMcpGUL9rC
 
 ---
 
