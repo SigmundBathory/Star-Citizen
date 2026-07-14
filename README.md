@@ -81,7 +81,7 @@ Para disfrutar de esta versión fusionada, sigue estos pasos:
 ## 📂 Origen de los Datos
 
 Este trabajo es posible gracias a la combinación de:
-* **Traducción Base:**
+* *y*Traducción Base:**
 * **Módulo de Blueprints:** Archivos técnicos integrados directamente en la estructura de localización.
 
 ---
@@ -91,6 +91,13 @@ Este trabajo es posible gracias a la combinación de:
 Si encuentras algún error en la traducción de los planos o en los textos generales, ¡siéntete libre de abrir un **Issue** o enviar un **Pull Request**! Toda ayuda es bienvenida para mantener el verso en nuestro idioma. Si quieres jugar a Star Citizen puedes usar mi codigo de referidos para que te regalen creditos y/o items (sujeto a promociones) https://www.robertsspaceindustries.com/enlist?referral=STAR-CXR9-7ZZL
 
 ---
+
+## Youtube & Twitch (Sigmund Bathory / Comando 10 FPS)
+
+<div align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/p6Ocd1euNKo?si=-d6earM7oqvVHCYe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div> <br> </br>
+
+https://www.twitch.tv/sigmundbathory
+https://youtu.be/p6Ocd1euNKo?si=rRwd53MMcpGUL9rC
 
 <div align="center">
   <p><i>Este es un proyecto fan-made y no tiene afiliación oficial con Cloud Imperium Games.</i></p>
