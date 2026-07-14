@@ -9,7 +9,6 @@ Titulos [BP]:       572
 Descripciones BP:   292
 Contratos:          2015
 Armamento:          136
-
 Claves nuevas:      71
 Inconsistencias @:  40
 Placeholders fix:   57
