@@ -1,5 +1,3 @@
-<img width="1936" height="1088" alt="Wallpaper" src="https://github.com/user-attachments/assets/df0c570f-5d36-4330-9079-079ac3f37e35" />
-<div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
   <h1>4.8.2  
     <br>(4.8.2-live.12061511)</br></h1>
@@ -97,7 +95,7 @@ Si encuentras algún error en la traducción de los planos o en los textos gener
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=p6Ocd1euNKo">
-    <img src="[<img width="1936" height="1088" alt="Wallpaper" src="https://github.com/user-attachments/assets/15710bee-b291-48a8-9ff2-1a24da227e48" />)" alt="Ver video en YouTube" width="560" style="max-width: 100%;">
+    <img src="[<img width="1936" height="1088" alt="Wallpaper" src="[https://github.com/user-attachments/assets/15710bee-b291-48a8-9ff2-1a24da227e48]" />)" alt="Ver video en YouTube" width="560" style="max-width: 100%;">
   </a>
 </div> <br> </br>
 
