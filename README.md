@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
 
-  <h2>4.9<br><small></small></h2>
+  <h2>4.9<br><small>(live 12232306)</small></h2>
 
   <!-- INICIO TABLA AJUSTADA PARA GITHUB -->
   <div style="display: inline-block; text-align: left; margin: 10px 0;">
