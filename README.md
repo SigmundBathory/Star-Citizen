@@ -1,22 +1,59 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
 
-<h2>4.9<br><small></small></h2>
+  <h2>4.9<br><small></small></h2>
 
-<pre>
---- RESUMEN --- 4.9
+  <!-- INICIO TABLA AJUSTADA PARA GITHUB -->
+  <div style="display: inline-block; text-align: left; margin: 10px 0;">
+    <table style="border: none; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+      <thead>
+        <tr style="border: none; background: none;">
+          <th colspan="2" style="border: none; padding: 0 0 10px 0; text-align: left; font-weight: bold; color: inherit;">--- RESUMEN --- 4.9</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Claves:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">90.121</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Titulos [BP]:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">572 +339</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Descripciones BP:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">316</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Contratos:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">2122</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Armamento:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">136</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Claves nuevas:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">71</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Inconsistencias @:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">40</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Placeholders fix:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">57</td>
+        </tr>
+        <tr style="border: none; background: none;">
+          <td style="border: none; padding: 2px 30px 2px 0; white-space: nowrap; color: inherit;">Overrides aplicados:</td>
+          <td style="border: none; padding: 2px 0; font-weight: bold; color: inherit;">464</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <!-- FIN TABLA AJUSTADA -->
 
-Claves:              90.121    
-Titulos [BP]:        572 +339
-Descripciones BP:    316
-Contratos:           2122
-Armamento:           136
-Claves nuevas:       71
-Inconsistencias @:   40
-Placeholders fix:    57
-Overrides aplicados: 464</pre>
-
-<p><i>Se ha añadido la cantidad de reputación que otorga cada contrato al final de la descripción.</i></p>
+  <p><i>Se ha añadido la cantidad de reputación que otorga cada contrato al final de la descripción.</i></p>
 
   <p><strong>La experiencia definitiva en español para el verso, ahora con planos detallados integrados.</strong></p>
 
