@@ -1,25 +1,20 @@
 <div align="center">
   <h1>🚀 Star Citizen - Traducción al Español + Blueprints + componentes</h1>
 
-<h2>4.9<br><small>Resumen de actualización</small></h2>
+<h2>4.9<br><small></small></h2>
 
-<div style="font-family: monospace; max-width: 320px; background: #1a1a1a; color: #fff; padding: 15px; border-radius: 5px;">
-  <div style="text-align: center; border-bottom: 1px dashed #555; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
-    --- RESUMEN --- 4.9
-  </div>
-  
-  <div style="display: grid; grid-template-columns: 1fr auto; row-gap: 4px;">
-    <span>Claves:</span><strong>90.121</strong>
-    <span>Titulos [BP]:</span><strong>572 +339</strong>
-    <span>Descripciones BP:</span><strong>316</strong>
-    <span>Contratos:</span><strong>2.122</strong>
-    <span>Armamento:</span><strong>136</strong>
-    <span>Claves nuevas:</span><strong>71</strong>
-    <span>Inconsistencias @:</span><strong>40</strong>
-    <span>Placeholders fix:</span><strong>57</strong>
-    <span>Overrides aplicados:</span><strong>464</strong>
-  </div>
-</div>
+<pre style="font-family: 'Courier New', Courier, monospace; line-height: 1.4;">
+--- RESUMEN --- 4.9
+
+Claves:              90.121    
+Titulos [BP]:        572 +339
+Descripciones BP:    316
+Contratos:           2122
+Armamento:           136
+Claves nuevas:       71
+Inconsistencias @:   40
+Placeholders fix:    57
+Overrides aplicados: 464</pre>
 
 <p><i>Se ha añadido la cantidad de reputación que otorga cada contrato al final de la descripción.</i></p>
 
