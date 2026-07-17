@@ -3,7 +3,7 @@
 
 <h2>4.9<br><small></small></h2>
 
-<pre style="font-family: 'Courier New', Courier, monospace; line-height: 1.4;">
+<pre>
 --- RESUMEN --- 4.9
 
 Claves:              90.121    
