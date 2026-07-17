@@ -3,7 +3,7 @@
 
 <h2>4.9<br><small></small></h2>
 
-<pre>
+```text
 --- RESUMEN --- 4.9
 
 Claves:              90.121    
@@ -14,7 +14,7 @@ Armamento:           136
 Claves nuevas:       71
 Inconsistencias @:   40
 Placeholders fix:    57
-Overrides aplicados: 464</pre>
+Overrides aplicados: 464
 
 <p><i>Se ha añadido la cantidad de reputación que otorga cada contrato al final de la descripción.</i></p>
 
